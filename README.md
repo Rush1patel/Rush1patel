@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=28A745¢er=true&vCenter=true&width=460&lines=Hey+there!+I'm+Rushi+Patel+🚀;Student+Developer+%26+Tech+Explorer;Always+Learning%2C+Always+Building." alt="Typing SVG" />
-  </a>
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=28A745&center=true&width=435&lines=Rushi+Patel+%E2%80%A2+Code+Enthusiast+%E2%80%A2+Always+Learning;%26+Evolving+%E2%80%A2++Passionate+about+Software+%E2%9C%A8" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF">
 </p>
