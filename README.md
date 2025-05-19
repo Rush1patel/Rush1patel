@@ -4,7 +4,7 @@
 </p>
 
 
-Hi, I'm **Rush Patel**, a passionate **student developer** on an exhilarating journey through the world of code and innovation! I thrive on tackling challenges, building cool stuff, and continuously expanding my horizons in technology.
+Hi, I'm **Rushi Patel**, a passionate **student developer** on an exhilarating journey through the world of code and innovation! I thrive on tackling challenges, building cool stuff, and continuously expanding my horizons in technology.
 
 ---
 
