@@ -45,7 +45,7 @@ I'm super keen to collaborate on interesting projects and learn from the amazing
 ---
 <div align="center">
 
-![snake gif](https://github.com/Rush1patel/Rush1patel/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Rush1patel/Rush1patel/blob/output/github-snake.svg)
 
 </div>
 
