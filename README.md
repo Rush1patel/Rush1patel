@@ -43,6 +43,13 @@ I'm super keen to collaborate on interesting projects and learn from the amazing
 *   📬 **Reach Out:** Don't hesitate to connect if you want to discuss tech, ideas, or potential collaborations!
 
 ---
+<div align="center">
+
+![snake gif](https://github.com/Rush1patel/Rush1patel/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
 
 ### 📊 My GitHub Stats:
 
@@ -53,12 +60,3 @@ I'm super keen to collaborate on interesting projects and learn from the amazing
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Rush1patel&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rush1patel&theme=radical&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
-
