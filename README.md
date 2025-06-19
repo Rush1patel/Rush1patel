@@ -46,6 +46,12 @@ I'm super keen to collaborate on interesting projects and learn from the amazing
 
 ---
 
+### 👁️‍🗨️ Profile Visits
+
+![](https://count.getloli.com/@Rush1patel?theme=booru-r6gdrawfriends)
+
+---
+
 ### 📊 My GitHub Stats:
 
 <p align="center">
