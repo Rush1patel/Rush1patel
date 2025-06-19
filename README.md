@@ -23,13 +23,8 @@ Hi, I'm **Rushi Patel**, a passionate **student developer** on an exhilarating j
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,c,cpp,git,linux,docker" alt="My Tech Skills"/>
-    <!-- 
-      The icons included are: HTML, CSS, JavaScript, Python, Java, C, C++, Git, Linux, Docker.
-      You can customize the list of icons in the URL above. 
-      For example, to only show html, css, java, python, c, cpp, git, javascript:
-      https://skillicons.dev/icons?i=html,css,java,python,c,cpp,git,javascript
-    -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,c,cpp,git,linux,docker,vscode,twitter,notion,gmail,linkedin" alt="My Tech Skills"/>
+    
   </a>
 </p>
 
