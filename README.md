@@ -23,7 +23,7 @@ Hi, I'm **Rushi Patel**, a passionate **student developer** on an exhilarating j
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,c,cpp,git,linux,docker,vscode,twitter,notion,gmail,linkedin" alt="My Tech Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,c,cpp,git,linux,docker,vscode,twitter,notion,gmail,linkedin,react,discord,eclipse,devto,&perline=8" alt="My Tech Skills"/>
     
   </a>
 </p>
