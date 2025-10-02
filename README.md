@@ -1,7 +1,13 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=28A745&center=true&width=435&lines=Rushi+Patel+%E2%80%A2+Code+Enthusiast+%E2%80%A2+Always+Learning;%26+Evolving+%E2%80%A2++Passionate+about+Software+%E2%9C%A8" alt="Typing SVG" /></a>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:6366f1&height=220&section=header&text=%3E%20Rushi%20Patel%20_%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=💻%20Code%20Enthusiast%20%7C%20Always%20Learning%20✨&descAlignY=55&descAlign=50" alt="Rushi Patel Banner" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2DD4BF&center=true&vCenter=true&width=500&lines=%24+echo+%22Hello%2C+I'm+Rushi+Patel%22;%24+cat+skills.txt;%7B+💻+Coding+Enthusiast;🔐+Cybersecurity+Learner;⚡+Always+Learning+New+Tech+%7D" alt="Coding Animation" />
+</p>
+
+
+
+
 
 
 Hi, I'm **Rushi Patel**, a passionate **student developer** on an exhilarating journey through the world of code and innovation! I thrive on tackling challenges, building cool stuff, and continuously expanding my horizons in technology.
@@ -61,3 +67,5 @@ I'm super keen to collaborate on interesting projects and learn from the amazing
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Rush1patel&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
+
+
