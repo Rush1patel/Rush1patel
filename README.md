@@ -44,12 +44,6 @@ I'm super keen to collaborate on interesting projects and learn from the amazing
 *   📬 **Reach Out:** Don't hesitate to connect if you want to discuss tech, ideas, or potential collaborations!
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rush1patel/rush1patel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rush1patel/rush1patel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rush1patel/rush1patel/output/pacman-contribution-graph.svg">
-</picture>
-<div align="center">
 
 ![snake gif](https://github.com/Rush1patel/Rush1patel/blob/output/github-snake.svg)
 
